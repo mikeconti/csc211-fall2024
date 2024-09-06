@@ -26,7 +26,7 @@ In this assignment you are expected to work in groups.   Your group will write a
     - The C Language
     - Altair 8800, first commercially successful personal computer
     - 'C with Classes' and C++
-    - References (Using IEEE in-text and citation page)
+    - References **(Using IEEE in-text and citation page)**
 
 4. Once you have each finished your own sections, you should now consolidate the individual sections and make one paper for the entire group to submit. **Include a header for each section in combined paper that clearly outlines the beginning of each section**
 
@@ -36,4 +36,4 @@ In this assignment you are expected to work in groups.   Your group will write a
 
 7. Your paper can contain figures, tables, images etc. The length including these media should be about 7-12 pages with 1.5 spacing.
 
-8. To submit the assignment, you should generate a PDF containing each group members' name and upload it to Gradescope by the due date (02/08/21).
+8. To submit the assignment, you should generate a PDF containing each group members' name and upload it to Gradescope by the due date (09/15/24).
