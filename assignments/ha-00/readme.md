@@ -26,7 +26,7 @@ In this assignment you are expected to work in groups.   Your group will write a
     - The C Language
     - Altair 8800, first commercially successful personal computer
     - 'C with Classes' and C++
-    - References **(Using IEEE in-text and citation page)**
+    - References ***(Using IEEE in-text and citation page)***
 
 4. Once you have each finished your own sections, you should now consolidate the individual sections and make one paper for the entire group to submit. **Include a header for each section in combined paper that clearly outlines the beginning of each section**
 
