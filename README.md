@@ -16,7 +16,7 @@
 | Day | Staff Member |  Time |Location |
 | --- | --- | --- | --- |
 |Monday    |   Marvens <br> Genevieve |  12p - 1p <br> 4p - 5p | Tyler 3rd Floor <br> Tyler 3rd Floor |
-|Tuesday    |   Genevieve <br> Marvens |  2p - 5p <br> 4p - 6p | Tyler 3rd Floor <br> Online |
+|Tuesday    |   Michael <br> Genevieve <br> Marvens | 10a - 11a <br>  2p - 5p <br> 4p - 6p | Tyler 132 <br> Tyler 3rd Floor <br> Online |
 |Wednesday   |   Marvens <br> |  12:30p - 2:30p <br> 5p - 6p | Tyler 3rd Floor <br> Online |
 |Thursday    |   Marvens <br> |  11a - 12p <br> 2p - 5p | Tyler 3rd Floor <br> Tyler 3rd Floor |
 |Friday    |  Genevieve <br> Marvens |  4p - 5p <br >4:30p - 5:40p | Tyler 3rd Floor <br> Tyler 3rd Floor |
