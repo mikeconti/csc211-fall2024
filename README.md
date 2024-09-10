@@ -38,7 +38,7 @@
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
 |Monday | Marvens | 1p - 2p | Tyler 3rd Floor | 
-|TBD |   TBD |   TBD  |TBD |
+|Thursday |   Genevieve |   11a - 12p |Tyler 3rd Floor |
 
 
  **Lab**
