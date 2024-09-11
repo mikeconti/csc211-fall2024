@@ -9,7 +9,7 @@
 **Teaching Assistants:** 
 
 
-* **Undergraduate:** Genevieve, Marvens <br>
+* **Undergraduate:** Genevieve, Marvens, Jenny <br>
 
 **Office Hours Schedule**
 
