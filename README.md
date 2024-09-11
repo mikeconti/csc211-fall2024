@@ -45,9 +45,9 @@
 
 | Day | Staff Member |  Time | Room |
 | --- | --- | --- |--- |
-|Monday | Genevieve |   2:00p - 3:45p  | Tyler 055  |
+|Monday | Genevieve <br> Jenny |   2:00p - 3:45p  | Tyler 055  |
 |Friday | Marvens   |   12:00p - 1:45p | Library 166|
-|Friday | Genevieve |   2:30p - 3:45p  | Library 166|
+|Friday | Genevieve <br> Jenny |   2:30p - 3:45p  | Library 166|
  
 
 ### Course Overview
