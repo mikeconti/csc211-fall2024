@@ -2,10 +2,7 @@
 
 int main(){
 
-    int a,b;
-
-    // std::cout << "Enter a value for A" << std::endl;
-    // std::cout << "Enter a value for B";
+    int a,b; std::cout << "Enter a value for A" << std::endl; std::cout << "Enter a value for B";
 
     std::cin >> a;
     std::cin >> b;
