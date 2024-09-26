@@ -18,8 +18,8 @@
 |Monday    |   Marvens <br> Genevieve |  12p - 1p <br> 4p - 5p | Tyler 3rd Floor <br> Tyler 3rd Floor |
 |Tuesday    |   Michael <br> Genevieve <br> Marvens | 10a - 11a <br>  2p - 5p <br> 4p - 6p | Tyler 132 <br> Tyler 3rd Floor <br> [Online](https://uri-edu.zoom.us/j/7178647504) |
 |Wednesday   |   Marvens <br> Genevieve <br> Genevieve |  12:30p - 2:30p <br> 1:30p - 2:30p <br> 5p - 6p | Tyler 3rd Floor <br> Tyler 3rd Floor <br> [Online](https://us05web.zoom.us/j/6394626281?pwd=b3JJRVUrdlp5ZUorbU5lYm94c2k2Zz09) |
-|Thursday    |   Marvens <br> Genevieve |  11a - 12p <br> 2p - 5p | [Online](https://uri-edu.zoom.us/j/7178647504) <br> Tyler 3rd Floor |
-|Friday    |  Genevieve <br> Marvens |  4p - 5p <br >4:30p - 5:40p | Tyler 3rd Floor <br> Tyler 3rd Floor |
+|Thursday    |   Marvens <br> Genevieve |  10a - 12p <br> 2p - 5p | [Online](https://uri-edu.zoom.us/j/7178647504) <br> Tyler 3rd Floor |
+|Friday    |  Genevieve   |  4p - 5p | Tyler 3rd Floor   |
 
 
 <!-- | Day | Staff Member |  Time |Location |
