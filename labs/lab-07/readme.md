@@ -1,4 +1,4 @@
-# Lab 08: Pointers
+# Lab 07: Pointers
 
 Welcome to CSC 211 Lab 08. Your goal for this lab will be to gain a better understanding of pointers. **Be sure to read and follow all instructions unless otherwise specified.**  Create a `lab-08.txt` document to record all of your lab answers in and implement all of your `.cpp` programs in your IDE. Some of the language in this lab has been adopted from `cplusplus.com/doc/tutorial/dynamic/`.
 
