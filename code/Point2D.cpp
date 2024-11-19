@@ -9,8 +9,10 @@ class Point {
     
     public:
         // Default constructor  //TODO 
+        Point();
 
         //Constructs a point object with X, Y, Z properties //TODO
+        Point(int someX, int someY, int someZ);
 
         //Sets the X, Y, and Z properties of a point Object
         void setX(int someX);
@@ -30,8 +32,20 @@ class Point {
 
 //Constructs a point object with X, Y, Z properties
 //TODO 
+Point::Point(){
 
+    x = 0;
+    y = 0;
+    z = 0;
 
+}
+
+Point::Point(int someX, int someY, int someZ){
+    x = someX;
+    y = someY;
+    z = someZ;
+
+}
 
 //Sets the X, Y, and Z properties of a point Object
 void Point::setX(int someX){
